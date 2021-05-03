@@ -1,5 +1,8 @@
 # Covid-in-Canada
+
 A Covid19 case and vaccine tracker for Canada and its provinces powered by [opencovid.ca](https://opencovid.ca/api/) and build in React.
+
+### [Check it out](http://covidincanada.kyleclarkson.ca/)
 
 For Canada as a whole or one of its provinces, the total number of cases, recoveries, and deaths so far are shown, along with the most recent daily figures. The number of vaccines distributed and administered are also displayed.
 
