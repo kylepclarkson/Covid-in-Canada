@@ -1,0 +1,19 @@
+.main-footer {
+  color: white;
+  background-color: #1b1919d7;
+  margin-top: 50px;
+  text-align: center;
+  padding: 2rem 0;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+
+.row {
+  margin-bottom: 20px;
+}
+
+.text-white {
+  /* text-decoration: none; */
+  color: white;
+}

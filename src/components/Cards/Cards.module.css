@@ -1,0 +1,51 @@
+.container {
+  margin: 50px 20px;
+}
+
+.card {
+  margin: 5px 0.75rem !important;
+}
+
+.cases {
+  border-bottom: 20px solid rgba(0,0,255, 0.85);
+}
+
+.active {
+  border-bottom: 20px solid rgba(255, 115, 0, 0.85);
+}
+
+.new_cases {
+  border-bottom: 20px solid rgba(251, 255, 0, 0.85);
+}
+
+.recovered {
+  border-bottom: 20px solid rgba(0,255,0, 0.85);
+}
+
+.deaths {
+  border-bottom: 20px solid rgba(255,0,0, 0.85);
+}
+
+.new_deaths {
+  border-bottom: 20px solid rgba(5,5,5, 0.85);
+}
+
+.delivered {
+  border-bottom: 20px solid rgba(102, 187, 236, 0.85);
+}
+
+.partially_administered {
+  border-bottom: 20px solid rgba(33, 139, 201, 0.85);
+}
+
+.fully_administered {
+  border-bottom: 20px solid rgba(2, 96, 150, 0.85);
+}
+
+.red {
+  color: red;
+}
+
+.green {
+  color: green;
+}
